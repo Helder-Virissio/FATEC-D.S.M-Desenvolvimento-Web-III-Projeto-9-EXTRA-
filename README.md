@@ -126,7 +126,7 @@ http://localhost:3000
 #### Exemplo de Corpo da Requisição — `POST /api/reservas`
 ```json
 {
-  "aluno": "Helder Virissio Araujo",
+  "aluno": "Helder Virissio",
   "email": "helder@exemplo.com",
   "salaId": 1,
   "data": "2026-11-10",
